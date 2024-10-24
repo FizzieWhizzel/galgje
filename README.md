@@ -9,3 +9,4 @@
 
 
 ## Beurten
+Ace: ik raad "W"
