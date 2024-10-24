@@ -2,14 +2,14 @@
 
 ## Te raden woord
 
-| | | | | |W|E|E| |
+| | | | |O|W|E|E| |
 
 ## Score
 Zesde letter is W
 Zevende en achste letter is E
+Vijfde letter is O
 
 
 ## Beurten
 Ace: ik raad "W"
-
-Kevin: ik raad "E"
+Mads: ik raad "O"
