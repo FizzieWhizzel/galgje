@@ -10,3 +10,4 @@
 
 ## Beurten
 Ace: ik raad "W"
+Mads: ik raad "O"
