@@ -2,10 +2,11 @@
 
 ## Te raden woord
 
-| | | | | |W| | | |
+| | | | | |W|E|E| |
 
 ## Score
 Zesde letter is W
+Zevende en achste letter is E
 
 
 ## Beurten
