@@ -5,7 +5,7 @@
 | | | | | |W| | | |
 
 ## Score
-
+Zesde letter is W
 
 
 ## Beurten
