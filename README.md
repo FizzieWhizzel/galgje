@@ -2,12 +2,13 @@
 
 ## Te raden woord
 
-| | | | |O|W|E|E| |
+| | |L|L|O|W|E|E| |
 
 ## Score
 Zesde letter is W
 Zevende en achste letter is E
 Vijfde letter is O
+Derde en vierde letter is L
 
 
 ## Beurten
