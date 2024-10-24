@@ -10,3 +10,5 @@ Zesde letter is W
 
 ## Beurten
 Ace: ik raad "W"
+
+Kevin: ik raad "E"
